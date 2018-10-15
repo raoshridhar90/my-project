@@ -1,0 +1,6 @@
+site_name: my-project
+nav:
+    - Home: index.md
+    - About: about.md
+theme: mkdocs
+repo_url: https://github.com/raoshridhar90
